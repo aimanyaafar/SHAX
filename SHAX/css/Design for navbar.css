@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: white;
+}
+
+.onTopOfNav{    
+    background-color: #83E9F0;
+    display:contents;
+    font-weight: bolder;
+    height: 100px;
+    margin: 0px;
+    width: 25%;
+}
+
+.onTopOfNav a{
+    height: inherit;
+    margin: 0px;
+    width: inherit;
+    border: 10px;
+    border-color: brown;
+}
+
+.onTopOfNav img{
+    width: inherit;
+    height: inherit;
+    align-content: center;
+}
+
+.onTopOfNav p{
+    display: inline-block;
+    font-size: 60%;
+    background-color: black;
+    padding: 0% 7% 0% 7%;
+}
+
+.onTopOfNav a:hover{
+    background-color: blue;
+}
+
+.wholenav {
+  overflow: hidden;
+  background-color: dimgrey; 
+  margin: 0px;
+}
+
+.wholenav a {
+  color: #2BFF00;
+  float: left;
+  font-size: 120%;
+  font-weight: bolder;
+  padding: 1% 2% 1% 2%;
+  text-align: center;
+  text-decoration: none;
+}
+
+.wholenav a:hover {
+  background-color: #FFFFFF;
+  color: #000000;
+}
+
+.active {
+  background-color: #333333;
+  color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
